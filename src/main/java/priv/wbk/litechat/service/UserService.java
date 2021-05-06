@@ -1,8 +1,7 @@
 package priv.wbk.litechat.service;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import priv.wbk.litechat.model.User;
+import priv.wbk.litechat.model.db.User;
 import priv.wbk.litechat.repository.UserRepository;
 
 import java.util.Optional;

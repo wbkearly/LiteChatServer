@@ -9,9 +9,9 @@ package priv.wbk.litechat.enums;
 public enum PermissionType {
 
     /**
-     * NONE, 普通成员
-     * ADMIN, 管理员
-     * ADMIN_SU 创建者
+     * NONE: 普通成员
+     * ADMIN: 管理员
+     * ADMIN_SU: 创建者
      */
     NONE, ADMIN, ADMIN_SU
 }

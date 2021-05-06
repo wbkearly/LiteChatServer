@@ -1,4 +1,4 @@
-package priv.wbk.litechat.model;
+package priv.wbk.litechat.model.db;
 
 import lombok.*;
 import priv.wbk.litechat.enums.NotifyLevel;
